@@ -50,10 +50,12 @@ We also talked a lot about accesibility in general and accessibility of web site
   [szabgab host1 Gabor Szabo]
   [lucy guest1 Lucy Greco]
 
-  [0:00] szabgab:
+  [00:02] szabgab:
    Hello there! You are listening to the CMOS, The Code Maven Open Source podcast.
 
-  [0:21] lucy: Good morning, how are you?
+  [00:21] lucy: Good morning, how are you?
+  
+  [00:23] szabgab: I'm really great, thank you. How are you?
 [/transcript]
 
 
